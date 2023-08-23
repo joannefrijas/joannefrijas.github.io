@@ -24,7 +24,9 @@ a:link {
   background-color: #FF1493;
   text-decoration: none;
 }
-a:visited {}
+a:visited {
+  color: #FFF;
+}
 a:hover {}
 a:active {}
 
