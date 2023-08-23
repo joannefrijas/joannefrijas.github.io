@@ -19,6 +19,7 @@ h2 {}
 p {}
 
 a:link {
+  color: #000;
   text-decoration: none;
 }
 a:visited {}
