@@ -9,7 +9,9 @@ header {
   float: left;
 }
 
-h1 {}
+h1 {
+  margin: 0 auto;
+}
 
 h2 {}
 
