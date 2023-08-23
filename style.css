@@ -18,7 +18,9 @@ p {}
 a {
   text-decoration: none;
 }
-a:link {}
+a:link {
+  text-decoration: none;
+}
 a:visited {}
 a:hover {}
 a:active {}
