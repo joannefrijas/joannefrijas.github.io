@@ -23,6 +23,7 @@ nav {
 section #content {
   width: 80%;
   float: left;
+  clear: right;
 }
 
 footer {}
