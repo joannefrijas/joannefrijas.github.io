@@ -1,6 +1,9 @@
 body {}
 
-header {}
+header {
+  width: 100%; 
+  float: left;
+}
 
 h1 {}
 
@@ -8,8 +11,16 @@ h2 {}
 
 p {}
 
-nav {}
+a {}
 
-section #content {}
+nav {
+  width: 20%;
+  float: left;
+}
 
-footer
+section #content {
+  width: 80%;
+  float: left;
+}
+
+footer {}
