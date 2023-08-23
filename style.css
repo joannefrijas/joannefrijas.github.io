@@ -23,16 +23,10 @@ a:visited {}
 a:hover {}
 a:active {}
 
-
-ul {
-  margin: 0;
-  padding: 0;
-  
-}
-
 ul {
   list-style: none;
-  padding: none;
+  margin: 0;
+  padding:0; 
 }
 
 ul li {
