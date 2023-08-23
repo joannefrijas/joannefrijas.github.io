@@ -26,4 +26,7 @@ section #content {
   clear: right;
 }
 
-footer {}
+footer {
+  float: left;
+  clear: both;
+}
