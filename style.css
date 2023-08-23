@@ -18,7 +18,8 @@ h2 {}
 p {}
 
 a:link {
-  color: #000;
+  color: #FFF;
+  background-color: pink;
   text-decoration: none;
 }
 a:visited {}
