@@ -19,32 +19,34 @@ h2 {}
 
 p {}
 
-a:link {
+nav {
+  width: 20%;
+  float: left;
+}
+
+nav a:link {
   color: #FFF;
   background-color: #FF1493;
   text-decoration: none;
   padding: 1em;
 }
-a:visited {
+
+nav a:visited {
   color: #FFF;
 }
-a:hover {}
-a:active {}
 
-ul {
+nav a:hover {}
+nav a:active {}
+
+nav ul {
   list-style: none;
   margin: 0;
   /*padding-left: 3px;*/
 }
 
-ul li {
+nav ul li {
   margin-bottom: 3em;
   list-style-type: none;
-}
-
-nav {
-  width: 20%;
-  float: left;
 }
 
 section #content {
